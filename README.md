@@ -1,20 +1,20 @@
+# Hi there, I'm Vaibhav Mishra 👋 🚀
+
 <p align="left">
   <a href="https://linkedin.com/in/vaibhav-mishra-283537289" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mv736072@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-# Hi there, I'm Vaibhav Mishra 👋 🚀
 
 ---
 
 ### 👤 Professional Overview
 - **Education:** B.Tech in Computer Science Engineering at J.C. Bose University of Science and Technology
 - **Current Role:** Data Science & Machine Learning Intern at GeeksforGeeks (GFG)
-- **Core Expertise:** End-to-End Predictive Pipelines, Database Optimization, and Interactive Business Intelligence Dashboards
+- **Core Expertise:** End-to-End Predictive Pipelines, Database Optimization, Large Language Models (LLMs), and Interactive Business Intelligence Dashboards
 
 ---
 
@@ -23,8 +23,8 @@
 <!-- Languages & Frameworks -->
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
-<!-- Deployment & BI Tools -->
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />  <img src="https://img.shields.io/badge/Tableau-E28743?style=for-the-badge&logo=tableau&logoColor=white" />  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />  <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<!-- BI, Cloud & Platforms -->
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />  <img src="https://img.shields.io/badge/Tableau-E28743?style=for-the-badge&logo=tableau&logoColor=white" />  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />  <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
 ---
 
